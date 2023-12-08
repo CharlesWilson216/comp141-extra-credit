@@ -1,0 +1,10 @@
+this
+is
+a
+text
+file
+with
+ten
+lines
+of
+data

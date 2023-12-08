@@ -1,0 +1,5 @@
+  PID TTY           TIME CMD
+    1 ??         7:05.98 /sbin/launchd
+  292 ??         4:41.47 /usr/libexec/logd
+  294 ??         0:22.64 /usr/libexec/UserEventAgent (System)
+  296 ??         0:03.22 /System/Library/PrivateFrameworks/Uninstall.framework/Resources/uninstalld

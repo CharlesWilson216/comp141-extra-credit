@@ -1,0 +1,7 @@
+this
+text
+file
+with
+ten
+lines
+data
